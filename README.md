@@ -1,4 +1,4 @@
-### Software Requirements Specification
+# Software Requirements Specification
 
 ## Overview
 The Software Requirements Specification (SRS) document outlines the functional and non-functional requirements for the shopping website. These requirements serve as the foundation for the development, testing, and maintenance of the website, ensuring that it meets the needs and expectations of users and stakeholders.

@@ -109,9 +109,9 @@ In the age of e-commerce, a user-friendly shopping website is crucial for both b
 
 ### To build this project, we will require the following technologies:
 
--	Front-end: ReactJS for building a responsive and interactive user interface.
--	Database: Firebase as the database to store product information, user data, and order history.
--	Authentication: Firebase Authentication for user registration and login.
+-	**Front-end**: ReactJS for building a responsive and interactive user interface.
+-	**Database**: Firebase as the database to store product information, user data, and order history.
+-	**Authentication**: Firebase Authentication for user registration and login.
 
 # Method/Approach
 

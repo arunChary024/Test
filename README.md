@@ -6,7 +6,7 @@ The Software Requirements Specification (SRS) document outlines the functional a
 # Functional Requirements
 
 1. User Registration
-    	1. Users shall be able to create account by providing a valid email address and password by clicking on sign up button.
+	- Users shall be able to create account by providing a valid email address and password by clicking on sign up button.
 2. <User Login>
 	1. < Users shall be able to log in using their registered email and password by clicking on log in button.>
 3. <Product Browsing>

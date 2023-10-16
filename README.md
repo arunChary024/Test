@@ -3,7 +3,7 @@
 ## Overview
 The Software Requirements Specification (SRS) document outlines the functional and non-functional requirements for the shopping website. These requirements serve as the foundation for the development, testing, and maintenance of the website, ensuring that it meets the needs and expectations of users and stakeholders.
 
-# Functional Requirements
+## Functional Requirements
 
 1. User Registration
 	- Users shall be able to create account by providing a valid email address and password by clicking on sign up button.
@@ -23,7 +23,7 @@ The Software Requirements Specification (SRS) document outlines the functional a
 	- Admin users shall be able to increase and decrease the number of products.
 	- Admin users shall navigate to the products and orders management pages.
 
-# Non-Functional Requirements
+## Non-Functional Requirements
 
 1. Security
 	- User data and payment information must be securely stored and transmitted.

@@ -64,8 +64,8 @@ The Software Requirements Specification (SRS) document outlines the functional a
  
 ## Prerequisites
 ### Before using the Shopping website, please ensure that you have the following prerequisites in place:
-- ** Node.js and npm**: Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official website: https://nodejs.org/
-- **GIt **: Make sure you have Git installed. You can download it from: https://git-scm.com/
+- Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from the official website: https://nodejs.org/
+- Make sure you have Git installed. You can download it from: https://git-scm.com/
 
 ### Setting up the Project
 **Clone the Repository**: Open your terminal and navigate to the directory where you want to store the project. Then, clone your GitHub repository using the following command: 

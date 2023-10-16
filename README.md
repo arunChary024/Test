@@ -74,8 +74,7 @@ The Software Requirements Specification (SRS) document outlines the functional a
 	cd your-shopping-website
 **Install Dependencies:** Install the required project dependencies. This assumes you have npm installed. Run the following command:
 	npm install
-##Configuration
-**Firebase Setup**: You need to configure Firebase for your project. Create a Firebase project on the Firebase Console (https://console.firebase.google.com/), and then set up your Firebase configuration in your project.
+
 
 ## Run Instructions
 ### To run the shopping website:

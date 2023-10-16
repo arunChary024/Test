@@ -68,19 +68,24 @@ The Software Requirements Specification (SRS) document outlines the functional a
 - Make sure you have Git installed. You can download it from: https://git-scm.com/
 
 ### Setting up the Project
+
 **Clone the Repository**: Open your terminal and navigate to the directory where you want to store the project. Then, clone your GitHub repository using the following command: 
 	git clone https://github.com/yourusername/your-shopping-website.git
+ 
 **Navigate to the Project Directory**: Change your working directory to the project folder:
 	cd your-shopping-website
+ 
 **Install Dependencies:** Install the required project dependencies. This assumes you have npm installed. Run the following command:
 	npm install
 
 
 ## Run Instructions
 ### To run the shopping website:
+
 **Start the Development Server**: You can start the development server by running the following command in your project directory:
 	npm start
 This will launch your shopping website on a development server, typically at http://localhost:3000.
+
 **Usage**: Access the shopping website by opening a web browser and navigating to http://localhost:3000.
 
 

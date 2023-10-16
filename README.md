@@ -7,21 +7,21 @@ The Software Requirements Specification (SRS) document outlines the functional a
 
 1. User Registration
 	- Users shall be able to create account by providing a valid email address and password by clicking on sign up button.
-2. <User Login>
-	1. < Users shall be able to log in using their registered email and password by clicking on log in button.>
-3. <Product Browsing>
-	1. <Users shall be able to browse products by using a search bar.>
-4. <Shopping Cart>
-	1.  <Users shall be able to add products to their shopping cart by clicking on the "Add to Cart" button.>
-2.  <Users shall be able to remove items from their cart using the delete button.>
-3.  <Users shall be able to view the contents of their shopping cart by clicking on the cart button.>
-4. <Users shall be able to proceed to the checkout process by clicking on the checkout button.>
-5.  < Order Management >
-1.	< Registered users shall be able to view their order items by clicking on orders button.>
-2.	< Admin users shall have the capability to manage products, including adding, removing, and updating them.>
-3.	< Admin users shall be able to view customer orders and their details.>
-4.	< Admin users shall be able to increase and decrease the number of products.>
-5.	< Admin users shall navigate to the products and orders management pages.>
+2. User Login
+	- Users shall be able to log in using their registered email and password by clicking on log in button.
+3. Product Browsing
+	- Users shall be able to browse products by using a search bar.
+4. Shopping Cart
+	- Users shall be able to add products to their shopping cart by clicking on the "Add to Cart" button.
+   	- Users shall be able to remove items from their cart using the delete button.
+	- Users shall be able to view the contents of their shopping cart by clicking on the cart button.>
+ 	- Users shall be able to proceed to the checkout process by clicking on the checkout button.>
+5. Order Management
+	- Registered users shall be able to view their order items by clicking on orders button.>
+	- Admin users shall have the capability to manage products, including adding, removing, and updating them.>
+	- Admin users shall be able to view customer orders and their details.>
+	- Admin users shall be able to increase and decrease the number of products.>
+	- Admin users shall navigate to the products and orders management pages.>
 
 # Non-Functional Requirements
 

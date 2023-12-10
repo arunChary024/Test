@@ -166,11 +166,17 @@ The goal of this Change Management plan is to seamlessly integrate our e-commerc
 This section presents essential software artifacts for our e-commerce project, including Use Case, Activity, Class, Object, and Navigation diagrams. Each artifact, accessible via the provided links, visually details various system aspects—from user interactions to system architecture—facilitating a comprehensive understanding of the project's design and functionality for all stakeholders.
 
 *[I am User UseCase diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/User_Use%20Case%20Diagram.jpeg)
+
 *[I am Admin UseCase diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/Admin_Use%20case%20Diagram.jpg)
+
 *[I am User Activity diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/User_Activity%20Diagram.jpg)
+
 *[I am Admin Activity diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/Admin_Activity%20Diagram.jpg)
+
 *[I am Class diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/class%20diagram.png)
+
 *[I am Object diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/object%20diagram.jpg)
+
 *[I am Navigation diagram link]( https://github.com/arunChary024/GVSU-CIS641-AlphaSquad/blob/main/artifacts/Navigation%20Diagram.pdf)
 
 

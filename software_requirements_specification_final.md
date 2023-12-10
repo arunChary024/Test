@@ -45,7 +45,7 @@ The software requirements are meticulously categorized into Functional and Non-F
 | FR19 | The system shall allow users to scroll through the list of products on the product browsing screen. |
 | FR20 | The system shall allow users to navigate to the cart screen upon clicking the Cart icon. |
 
-### <Admin Product Management>
+### Admin Product Management
 | ID   | Requirement |
 | :---:| :------------------------------------------------------------------------------------------------------------------------- |
 | FR21 | The system shall allow users to navigate to the Add New Products screen upon clicking the Add Products button in the products list screen. |
@@ -113,9 +113,6 @@ The goal of this Change Management plan is to seamlessly integrate our e-commerc
 - **Issue Reporting Mechanism**: Implement a user-friendly and easily accessible issue reporting mechanism within the app.
 - **Priority Classification**: Establish a priority classification system based on the severity and impact of reported issues.
 
----
-
-This plan directly addresses the requirements for the integration of the new application in the customer's office environment. It considers the training of personnel, ensuring smooth integration with existing systems, and efficient resolution of any arising issues.
 
 
 # Traceability links
@@ -124,16 +121,18 @@ This plan directly addresses the requirements for the integration of the new app
 
 | Artifact ID | Artifact Name        | Requirement ID              |
 |-------------|----------------------|-----------------------------|
-| User UseCase    | REGISTER             | FR2             |
-| User UseCase    | LOGIN                | FR1             |
-| User UseCase    | SEARCH PRODUCT       | FR17           |
-| User UseCase    | ADD PRODUCT TO CART | FR18           |
-| User UseCase    | REMOVE PRODUCT       | FR7           |
-| User UseCase    | CHECKOUT             | FR10     |
-| Admin UseCase    | Add product          | FR21           |
-| Admin UseCase    | Update product       | FR24            |
-| Admin UseCase    | Remove Product       | FR25            |
-| Admin UseCase    | View / Check product | FR19           |
+| UseCase1    | REGISTER             | FR2                         |
+| UseCase1    | LOGIN                | FR1                         |
+| UseCase1    | SEARCH PRODUCT       | FR17                        |
+| UseCase1    | ADD PRODUCT TO CART  | FR18                        |
+| UseCase1    | REMOVE PRODUCT       | FR7                         |
+| UseCase1    | CHECKOUT             | FR10                        |
+| UseCase2    | Add product          | FR21                        |
+| UseCase2    | Update product       | FR24                        |
+| UseCase2    | Remove Product       | FR25                        |
+| UseCase2    | View/Check product   | FR19                        |
+| UseCase2    | Manage Orders        | FR12-14  |
+
 
 
 
